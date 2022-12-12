@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mrizkihidayat66)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/RizkyBlackHat/) 
 
-<img align="right" src="\img\moe.png" width="400" alt="github-cover"/>
+<img align="right" src="/img/moe.png" width="400" alt="github-cover"/>
 
 #### 📋 Current Activity
 - 📖 I’m Focus on Web & Desktop App Development
